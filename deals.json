@@ -622,7 +622,10 @@
     "last_verified": "2026-09-09",
     "subcategory": "happy_hour",
     "neighborhood": "Waikiki",
-    "status": "unverified"
+    "address": "383 Kalaimoku St, Honolulu, HI 96815",
+    "status": "unverified",
+    "lat": 21.2826223,
+    "lng": -157.8298755
   },
   {
     "id": "wicked-maine-lobster-waikiki-1ff397",
@@ -740,7 +743,9 @@
     "last_verified": "2026-09-09",
     "subcategory": "happy_hour",
     "neighborhood": "Waikiki",
-    "status": "unverified",
+    "hours": "TUES–SUN 11:30AM–6:30PM",
+    "discount": "happy hour specials",
+    "status": "active",
     "lat": 21.280458,
     "lng": -157.8292466
   },
@@ -980,7 +985,11 @@
     "last_verified": "2026-09-09",
     "subcategory": "happy_hour",
     "neighborhood": "Kahala",
-    "status": "unverified"
+    "address": "4211 Waialae Ave, E-1, Honolulu, HI, 96816",
+    "lat": 21.2778625,
+    "lng": -157.7860605,
+    "discount": "$3 off all mules and margaritas",
+    "status": "active"
   },
   {
     "id": "honolulu-burger-co-kaimuki-7831c5",
@@ -1032,21 +1041,6 @@
     "status": "active",
     "lat": 21.3113317,
     "lng": -157.8634757
-  },
-  {
-    "id": "bar-35-chinatown-1450cd",
-    "name": "Bar 35",
-    "category": "food",
-    "source_url": "https://www.bar35hawaii.com/",
-    "last_verified": "2026-09-09",
-    "subcategory": "happy_hour",
-    "neighborhood": "Chinatown",
-    "address": "35 N HOTEL STREET, HONOLULU, HI 96817",
-    "hours": "Thursday & Friday 4pm-2am",
-    "discount": "happy hour specials",
-    "status": "active",
-    "lat": 21.311453,
-    "lng": -157.8624324
   },
   {
     "id": "skull-crown-trading-co-chinatown-73b695",
@@ -1336,19 +1330,6 @@
     "status": "unverified"
   },
   {
-    "id": "hot-yoga-by-the-sea-kailua-fa893e",
-    "name": "Hot Yoga by the Sea",
-    "category": "service",
-    "source_url": "https://hotyogabythesea.com/",
-    "last_verified": "2026-09-09",
-    "subcategory": "fitness",
-    "neighborhood": "Kailua",
-    "address": "Keolu Drive, Kailua, HI, 96734-3938",
-    "status": "unverified",
-    "lat": 21.3842167,
-    "lng": -157.7388332
-  },
-  {
     "id": "yoga-under-the-palms-kaimuki-kaimuki-b81883",
     "name": "Yoga Under the Palms (Kaimuki)",
     "category": "service",
@@ -1531,21 +1512,6 @@
     "status": "active"
   },
   {
-    "id": "tropics-hawaii-kai-hawaii-kai-666340",
-    "name": "Tropics Hawaii Kai",
-    "category": "food",
-    "source_url": "https://www.tropicshikai.com/",
-    "last_verified": "2026-09-09",
-    "subcategory": "happy_hour",
-    "neighborhood": "Hawaii Kai",
-    "address": "377 Keahole Street, Honolulu, HI, 96825-3405",
-    "hours": "Sat 6pm to 9pm",
-    "discount": "happy hour specials",
-    "status": "active",
-    "lat": 21.2849444,
-    "lng": -157.7074779
-  },
-  {
     "id": "body-mind-spa-aiea-a29642",
     "name": "Body & Mind Spa",
     "category": "service",
@@ -1563,8 +1529,7 @@
     "last_verified": "2026-09-09",
     "subcategory": "spa_massage",
     "neighborhood": "Aiea",
-    "discount": "BOgO",
-    "status": "active",
+    "status": "unverified",
     "lat": 21.3835167,
     "lng": -157.9508036
   },
